@@ -14,4 +14,6 @@ The initial plan is to just have a JS array of words and simply check if the giv
 | v0   |  0K   | 0ms | 0.0s|  
 
 ## Getting Started
+```
 <script src="jspell.js"></script>
+```
